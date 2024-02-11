@@ -29,3 +29,9 @@ In your Trenchbroom preferences, set the Game Path to the binary of your Quake s
 ## 6. Test drive
 
 You can [download](https://rome.ro/news/2016/2/14/quake-map-sources-released) the original Quake 1 map source files and use them both as reference for level-design and as a way to test that your setup and workflow and working and flowing.
+
+
+## Troubleshooting
+
+### TrenchBroom says: Could not load texture collection 'gfx/base.wad': Cannot open file 
+This means your paths for your Quake game files (pak0.pak and pak1.pak) aren't right, or maybe your .pak files aren't any good.
