@@ -26,4 +26,6 @@ Your source port will expect your ill-gotten gains to be in a particular directo
 
 In your Trenchbroom preferences, set the Game Path to the binary of your Quake source port, and set the respective paths for each of the compilation tools (`qbsp`, `vis`, and `light`).
 
-Try opening the maps from the Quake WAD to get a feel for the workflow. The game files for Quake are typically under an `id1` subdirectory, and consist of a `pak0.pak` and a `pak1.pak` file. These are just renamed `.zip` files.
+## 6. Test drive
+
+You can [download](https://rome.ro/news/2016/2/14/quake-map-sources-released) the original Quake 1 map source files and use them both as reference for level-design and as a way to test that your setup and workflow and working and flowing.
