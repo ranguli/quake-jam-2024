@@ -17,7 +17,8 @@ There are very (very) many source ports to choose from. Pick whichever you like.
 - Clone [ericw-tools](https://github.com/ericwa/ericw-tools)
 
 ## 4. Obtain illegal Quake 1 game files from guli or the internet
-;)
+
+[piracy is a serious crime](https://archive.org/details/quake_dos)
 
 Your source port will expect your ill-gotten gains to be in a particular directory and will automatically load them on startup. If it can't find it every source port should have a command-line parameter to specify the directory of your WADs.
 
