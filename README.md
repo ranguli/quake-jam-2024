@@ -27,6 +27,11 @@ Your source port will expect your ill-gotten gains to be in a particular directo
 
 In your Trenchbroom preferences, set the Game Path to the binary of your Quake source port, and set the respective paths for each of the compilation tools (`qbsp`, `vis`, and `light`).
 
+
+Here's an example of the correct preferences in Trenchbroom, where the `quake` directory is your game files (i.e the contents of the archive.org download) 
+![image](https://github.com/ranguli/quake-jam-2024/assets/5544782/73ad01c4-2d3a-4126-9ef3-281af038034d)
+
+
 ## 6. Test drive
 
 You can [download](https://rome.ro/news/2016/2/14/quake-map-sources-released) the original Quake 1 map source files and use them both as reference for level-design and as a way to test that your setup and workflow and working and flowing.
