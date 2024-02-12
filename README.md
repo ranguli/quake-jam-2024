@@ -80,6 +80,27 @@ You can follow along this same process when creating a new map as well.
 
 In order to compile a map from directly within TrenchBroom, select "Run > Compile" from the menubar.
 
+### Create an Export Map task
+The default settings for this task should be adequate.
+
+### Create a Run Tool task for `qbsp`
+- Select the path to your `qbsp` binary downloaded from the ericw-tools repository. 
+- Enter `${MAP_BASE_NAME}-compile.map`
+
+### Create a Run Tool task for `vis`
+- Select the path to your `vis` binary downloaded from the ericw-tools repository.
+- Enter `-threads ${CPU_COUNT-1} ${MAP_BASE_NAME}.bsp
+
+
+### Create a Run Tool task for `light`
+- Select the path to your `light` binary downloaded from the ericw-tools repository.
+- Enter `-threads ${CPU_COUNT-1} ${MAP_BASE_NAME}.bsp
+
+### Create a Copy Files task
+- Ensure that the Source is `${WORK_DIR_PATH}/${MAP_BASE_NAME}.bsp`
+- Ensure that the Target is `${GAME_DIR_PATH}/${MODS[-1]}}/maps`
+
+
 WIP 
 
 ![image](https://github.com/ranguli/quake-jam-2024/assets/5544782/b63546a9-8ab0-4c09-94b1-83d506b35cdf)
