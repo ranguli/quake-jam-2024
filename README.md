@@ -16,7 +16,9 @@ Maps must be compiled beforet they can be played in Quake.
 
 [See the Wiki article](https://github.com/ranguli/quake-jam-2024/wiki/Compiling-a-map-in-TrenchBroom)
 
+## Okay but how tf do I actually make a map in TrenchBroom
 
+watch this [tutorial series](https://www.youtube.com/watch?v=gONePWocbqA&list=PLgDKRPte5Y0AZ_K_PZbWbgBAEt5xf74aE)
 
 ## Troubleshooting
 
