@@ -18,7 +18,7 @@ Maps must be compiled beforet they can be played in Quake.
 
 ## Okay but how tf do I actually make a map in TrenchBroom
 
-watch this [tutorial series](https://www.youtube.com/watch?v=gONePWocbqA&list=PLgDKRPte5Y0AZ_K_PZbWbgBAEt5xf74aE)
+watch this [tutorial series](https://www.youtube.com/watch?v=gONePWocbqA&list=PLgDKRPte5Y0AZ_K_PZbWbgBAEt5xf74aE). you can skip the trenchbroom setup video if you've had success getting setup with the wiki guide.
 
 ## Troubleshooting
 
