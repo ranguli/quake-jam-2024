@@ -1,5 +1,8 @@
 # Quake Yam Setup
 
+It is very important to RTFM to avoid fear, confusion, delirium, etc.
+
+
 ## Download and install prerequisites
 Follow the [Wiki article](https://github.com/ranguli/quake-jam-2024/wiki/Download-and-install-prerequisites) for downloading and installing everything you'll need for Quake mapping.
 
