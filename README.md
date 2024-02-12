@@ -85,5 +85,4 @@ Maps must be compiled beforet they can be played in Quake.
 
 ## Troubleshooting
 
-### TrenchBroom says: Could not load texture collection 'gfx/base.wad': Cannot open file 
-This means your paths for your Quake game files (pak0.pak and pak1.pak) aren't right, or maybe your .pak files aren't any good.
+For common issues, see the [Wiki article](https://github.com/ranguli/quake-jam-2024/wiki/Troubleshooting) on troubleshooting.
