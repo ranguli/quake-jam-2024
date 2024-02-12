@@ -26,3 +26,8 @@ Hold `Shift` with pressing any of these keys to accelerate camera movement.
 | `Q`        | Move camera up                                                             |
 
 
+## Brush Work
+
+| Keybinding | Action                                                                     |
+|------------|----------------------------------------------------------------------------|
+| `Ctrl-J`   | Merges multiple selected brushes                                           |
