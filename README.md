@@ -1,33 +1,9 @@
 # Quake Yam Setup
 
 
-## Setup
+## Download and install prerequisites
+Follow the [Wiki article](https://github.com/ranguli/quake-jam-2024/wiki/Download-and-install-prerequisites) for downloading and installing everything you'll need for Quake mapping.
 
-### Install Quake source port
-   
-   There are very (very) many source ports to choose from. Pick whichever you like. If you have no preference you can try:
-
-- `sudo apt install quakespasm`
-- https://github.com/andrei-drexler/ironwail
-
-
-### Install Trenchbroom
-- Cop from the [releases](https://github.com/TrenchBroom/TrenchBroom/releases) page on GitHub or the [Flatpak](https://flathub.org/apps/com.kristianduske.TrenchBroom).
-
-### Install map compilation tools
-
-- Think of Trenchbroom like your code editor and ericw-tools as your compiler.
-- Clone [ericw-tools](https://github.com/ericwa/ericw-tools)
-
-### Obtain Quake game files
-
-[piracy is a serious crime](https://archive.org/details/quake_dos)
-
-Your source port will expect your ill-gotten gains to be in a particular directory and will automatically load them on startup. If it can't find it every source port should have a command-line parameter to specify the directory of your WADs.
-
-### Download Quake Textures
-
-In addition to the original Quake game files, you will need textures which can be found [here](https://www.quaddicted.com/files/wads/base.zip).
 
 ### Mix and serve
 
